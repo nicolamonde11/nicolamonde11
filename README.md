@@ -2,7 +2,7 @@
 
 I am a finance and accounting student at Baldwin Wallace.
 
-* Resume click here[](https://rawcdn.githack.com/nicolamonde11/nicolamonde11/821215c8329ad79cd71fcf4e9d1b363f5a3848d2/Nico%20Lamonde%20(Resume)%20(PDF).pdf)
+* Resume click here[](https://rawcdn.githack.com/nicolamonde11/nicolamonde11/36f5626fec29a55ecb20d5e218c06c1c20d1fd95/Nico%20Lamonde%20(Resume)%20(PDF).pdf)
 
 ---
 
