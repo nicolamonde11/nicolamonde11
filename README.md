@@ -11,7 +11,7 @@ I am a finance and accounting student at Baldwin Wallace.
 * 🏫 **Education:** Currently pursuing a B.S. in Finance and Accounting at Baldwin Wallace University (Expected Graduation: 2028)
 * 🔭 **Current Focus:** Building skills in corporate finance, accounting, financial analysis, investment management, and Excel
 * 🌱 **Currently Building:** Developing a Budget Calculator WebApp using Python and Flask on PythonAnywhere
-* 💡 **Interests:** Poker, Investment Management, Wealth Management, 
+* 💡 **Interests:** Poker, Sports, Investment Management, and Wealth Management 
 * ⚡ **Fun Fact:** I’m a former college football player who enjoys playing golf (all sports), spending time with my family, friends, and my english bulldog, investing, sports, and entrepreneurship
 
 ---
